@@ -14,8 +14,11 @@ Mais revenons à votre mission : il est temps de mettre les mains dans le cambou
 Comme vous l'avez appris dans vos recherches avant de postuler, votre entreprise, "Rester livres" s'est d'abord développée dans une grande ville de France, avec plusieurs magasins, jusqu'à décider d'ouvrir une boutique en ligne. Son approche de la vente de livres en ligne, basée sur des algorithmes de recommandation, lui a valu un franc succès !
 
 Les données
+
 Vous avez accès à ces données, extraites directement de la base de l’entreprise vers les fichiers CSV. Voici les fichiers à votre disposition :
 
 les ventes (appelées “Transactions”)
+
 la liste des clients
+
 la liste des produits
